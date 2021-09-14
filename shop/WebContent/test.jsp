@@ -4,14 +4,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>index.jsp</title>
+<title>test.js</title>
 </head>
 <body>
-	<!-- start : submenu include -->
 	<div>
 		<jsp:include page ="/partial/submenu.jsp"></jsp:include>
 	</div>
-	<!--  end : submenu include  -->
-	<h1>메인페이지</h1>
+
+	<h1>test page</h1>
 </body>
 </html>
